@@ -3,7 +3,7 @@
 
 ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-<p>root                                    7 
+<pre>root                                    7 
                                          /   \
                                         5     8
                                       /  \     \
@@ -12,4 +12,4 @@
                                   0    3
                                       /  \
                                      2    4 
-                                     </p>
+                                     </pre>
